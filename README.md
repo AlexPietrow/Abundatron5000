@@ -1,7 +1,6 @@
 # Abundatron: Batch INSPECT Fetcher
 
-Automated tool for fetching NLTE abundance corrections from the  
-[INSPECT database](https://www.inspect-stars.com).
+Automated tool for fetching NLTE abundance corrections from the  [INSPECT database](https://www.inspect-stars.com).
 
 ## What it does
 
@@ -112,5 +111,4 @@ cat ew_list.txt | python3 abundatron.py   --element O --mode ew   --teff 5777 --
 ## Citation
 
 If you use INSPECT data in publications, please cite the original sources  
-(e.g. Amarsi, Asplund, Collet & Leenaarts 2015 for O,  
-Lind, Asplund & Barklem 2009 for Li).
+(e.g. [Amarsi et al. (2015) MNRAS, 454,11](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454L..11A/abstract)) as well as Pietrow et al. (in prep).
