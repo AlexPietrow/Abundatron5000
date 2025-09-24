@@ -1,4 +1,4 @@
-# Abundatron: Batch INSPECT Fetcher
+# Abundatron5000: a Batch INSPECT processor
 
 Automated tool for fetching NLTE abundance corrections from the  [INSPECT database](https://www.inspect-stars.com).
 
